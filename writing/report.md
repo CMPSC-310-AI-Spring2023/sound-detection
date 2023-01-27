@@ -10,9 +10,12 @@
 
 ### Hardware 
 
-- Arduino board
-- leds of different colors (ideally 13) (at least 8)
+- Arduino board (need)
+- leds of different colors (ideally 13) (at least 8) (have)
+- breadboard (have)
 - microphone
+[amazon 1](https://www.amazon.com/DAOKI-Sensitivity-Microphone-Detection-Arduino/dp/B00XT0PH10/ref=sr_1_3?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847782&sprefix=arduino+microhpone%2Caps%2C319&sr=8-3);
+[amazon 2](https://www.amazon.com/DEVMO-Microphone-Sensitivity-Detection-Arduino/dp/B07S4DTKYH/ref=sr_1_1_sspa?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847851&sprefix=arduino+microhpone%2Caps%2C319&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWE9LSjk1MjdSOUVHJmVuY3J5cHRlZElkPUEwMzUzMTA4Sko0WDhSQzI0Wk0wJmVuY3J5cHRlZEFkSWQ9QTAwNzE2NjJZRUI4NlE3SkZCTkkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
 ## Arduino Project
 
