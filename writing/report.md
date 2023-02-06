@@ -15,11 +15,12 @@
 ### Hardware
 
 - Arduino board (need)
+
 - leds of different colors (ideally 13) (at least 8) (have)
+
 - breadboard (have)
-- microphone
-[amazon 1](https://www.amazon.com/DAOKI-Sensitivity-Microphone-Detection-Arduino/dp/B00XT0PH10/ref=sr_1_3?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847782&sprefix=arduino+microhpone%2Caps%2C319&sr=8-3);
-[amazon 2](https://www.amazon.com/DEVMO-Microphone-Sensitivity-Detection-Arduino/dp/B07S4DTKYH/ref=sr_1_1_sspa?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847851&sprefix=arduino+microhpone%2Caps%2C319&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWE9LSjk1MjdSOUVHJmVuY3J5cHRlZElkPUEwMzUzMTA4Sko0WDhSQzI0Wk0wJmVuY3J5cHRlZEFkSWQ9QTAwNzE2NjJZRUI4NlE3SkZCTkkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+- microphone [amazon 1](https://www.amazon.com/DAOKI-Sensitivity-Microphone-Detection-Arduino/dp/B00XT0PH10/ref=sr_1_3?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847782&sprefix=arduino+microhpone%2Caps%2C319&sr=8-3); [amazon 2](https://www.amazon.com/DEVMO-Microphone-Sensitivity-Detection-Arduino/dp/B07S4DTKYH/ref=sr_1_1_sspa?crid=28V9D1JTD845K&keywords=arduino+microphone&qid=1674847851&sprefix=arduino+microhpone%2Caps%2C319&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWE9LSjk1MjdSOUVHJmVuY3J5cHRlZElkPUEwMzUzMTA4Sko0WDhSQzI0Wk0wJmVuY3J5cHRlZEFkSWQ9QTAwNzE2NjJZRUI4NlE3SkZCTkkmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
 ## Arduino Project
 
@@ -53,20 +54,15 @@ Our first biggest challenge for this lab was learning how to build with an ardui
 
 In this section, drawing on class discussions and readings, answer the following questions
 
-1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop?
-This type of application would largely be devloped by a company specializing in recreational objects, such as toys. However, there would also be potential in the audio industry, such as a company looking to create a visually interactive microphone or speaker.
+1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop? This type of application would largely be devloped by a company specializing in recreational objects, such as toys. However, there would also be potential in the audio industry, such as a company looking to create a visually interactive microphone or speaker.
 
-2. Who are the intended users of this technology?
-This technology would like be used by those in the audio industry. This application funcions purely for aesthetics, providing little or no practical application. As such, it could easily be used by anyone for personal purposes.
+2. Who are the intended users of this technology? This technology would like be used by those in the audio industry. This application funcions purely for aesthetics, providing little or no practical application. As such, it could easily be used by anyone for personal purposes.
 
-3. Who is not supposed to use this technology?
-While I cannot think of anyone who should strictly speaking not use this technology, it would be preferable to avoid people using this technology as a replacement for instrument tuners, as it does not accomplish between notes of a different octave.
+3. Who is not supposed to use this technology? While I cannot think of anyone who should strictly speaking not use this technology, it would be preferable to avoid people using this technology as a replacement for instrument tuners, as it does not accomplish between notes of a different octave.
 
-4. How can the application developed in this lab cause harm?
-The most damage this application could do is through incorrect use by using it as an instrument tuner. This application is not capable of causing any bodily harm.
+4. How can the application developed in this lab cause harm? The most damage this application could do is through incorrect use by using it as an instrument tuner. This application is not capable of causing any bodily harm.
 
-5. What solutions could be implemented to avoid the harm or to fix the harm described above?
-As the application functions too differently to be used as a tuner, the user should be able to determine its usefulness lies in a different areal.
+5. What solutions could be implemented to avoid the harm or to fix the harm described above? As the application functions too differently to be used as a tuner, the user should be able to determine its usefulness lies in a different areal.
 
 ## Team Work
 
