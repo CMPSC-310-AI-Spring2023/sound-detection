@@ -50,6 +50,12 @@ Discuss any challenges you have encountered during the work on this lab and  des
 
 Our first biggest challenge for this lab was learning how to build with an arduino board. Neither of us had extensive experience with arduino, so as such we needed to learn from scratch using online guides and tutorials. More specifically, we had difficuly learning how to connect multiple led circuits to the same ground, but were eventually able to find a suitable solution.
 
+Another challenge that we had was figuring out how to best use the attached mic to sample the audio frequency. At first we first using a digital input to record the mic, but this only returns a simple 0 or 1 value representing that the volume reached a certain threshold. THen we started using an analog input which could measure more finely the audio coming in. After experimenting with a few different arduino libraries, we were able to implement a way for our application to accurately sample audio.
+
+Finally, the last challenge we had was getting our application to consistently respond to audio input. While the application was technically working, there was a lot of jittering with the LEDs as the noise coming in was very chaotic and non-frequent. To remedy this, we decided to sample multiple audio signals at once and then use only the highest frequency. Furthermore, we added a very short delay after an LED turns on before the program tries to re-sample or order to help make the application feel more consistant.
+
+We learned a lot from this project, mostly relating to arduino circuits and programming, but also some about how audio inputs and led outputs function. We feel that if we were to try another arduino project again in the future, we would be able to tackle it with much greater efficiency.
+
 ## Ethical Benefits and Implications
 
 In this section, drawing on class discussions and readings, answer the following questions
