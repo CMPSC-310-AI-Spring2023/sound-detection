@@ -9,8 +9,8 @@
 |  27th Jan  |   Planning  |
 |   1st Feb  |   Get Parts |
 |   4th Feb  | Build Board |
-|   6th Feb  | Programming |
-|   7th Feb  |   Finish    |
+|   7th Feb  | Programming |
+|   8th Feb  |   Finish    |
 
 ### Hardware
 
@@ -60,16 +60,16 @@ We learned a lot from this project, mostly relating to arduino circuits and prog
 
 In this section, drawing on class discussions and readings, answer the following questions
 
-1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop? This type of application would largely be devloped by a company specializing in recreational objects, such as toys. However, there would also be potential in the audio industry, such as a company looking to create a visually interactive microphone or speaker.
+1. What entities, businesses, organizations do you envision developing the type of the application you have chosen to develop? This type of application would largely be developed by a company specializing in recreational objects, such as toys. However, there would also be potential in the audio industry, such as a company looking to create a visually interactive microphone, speaker or instrument.
 
-2. Who are the intended users of this technology? This technology would like be used by those in the audio industry. This application funcions purely for aesthetics, providing little or no practical application. As such, it could easily be used by anyone for personal purposes.
+2. Who are the intended users of this technology? This technology would like be used by those in the audio industry. This application funcions purely for aesthetics, with a little functionality for direct audio feedback. As such, it could easily be used by anyone for personal purposes.
 
-3. Who is not supposed to use this technology? While I cannot think of anyone who should strictly speaking not use this technology, it would be preferable to avoid people using this technology as a replacement for instrument tuners, as it does not accomplish between notes of a different octave.
+3. Who is not supposed to use this technology? While I cannot think of anyone who should strictly speaking not use this technology, it would be preferable to avoid people using this technology as a replacement for instrument tuners, as it does not distinguish between notes of a different octave.
 
 4. How can the application developed in this lab cause harm? The most damage this application could do is through incorrect use by using it as an instrument tuner. This application is not capable of causing any bodily harm.
 
-5. What solutions could be implemented to avoid the harm or to fix the harm described above? As the application functions too differently to be used as a tuner, the user should be able to determine its usefulness lies in a different areal.
+5. What solutions could be implemented to avoid the harm or to fix the harm described above? As the application functions too differently to be used as a tuner, the user should be able to determine its usefulness lies in a different area.
 
 ## Team Work
 
-For our team work, we decided to split the work-load based on each of the tasks requried from the team as a whole. Both of us worked on acquiring all of the necessary materials and planning out the project as a whole. Once we had all the materials, we split the work load as follows. Max worked on building the arduino board and testing the functionality of the componants, and David worked on programming the arduino board in order to build our application with our goals in mind. Although we did split tasks at a higher level, both of us did end up having a hand in all aspects of the project such as building and programming the arduino.
+For our team, we decided to split the work load based on each of the tasks requried from the team as a whole. Both of us worked on acquiring all of the necessary materials and planning out the project as a whole. Once we had all the materials, we split the work load as follows. Max worked on building the arduino board and testing the functionality of the componants, and David worked on programming the arduino board in order to build our application with our goals in mind. Although we did split tasks at a higher level, both of us did end up having a hand in all aspects of the project such as building and programming the arduino, as both tasks were easier to accomplish with a wider range of ideas.
