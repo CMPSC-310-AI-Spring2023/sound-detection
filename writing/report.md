@@ -24,9 +24,13 @@
 
 ## Arduino Project
 
-Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include  references of all sources you have used throughout this project (URLs are sufficient).
+Describe the application you have chosen to develop and provide a motivation for why it is a useful application. Include references of all sources you have used throughout this project (URLs are sufficient).
 
 We plan to create a arduino board application which will take sound as an input (talking/music), take an approximation of the frequency being recorded and then display a color based on the closest note heard. The different led's will be set to correspond to specific note frequencies. This idea functions similarly to a tuner, although we hope to be able to distinguish the notes regardless of the octave.
+
+[robotique](https://www.robotique.tech/robotics/blink-two-leds-with-arduino/)
+
+[circuitbasics](https://www.circuitbasics.com/how-to-use-microphones-on-the-arduino/)
 
 ## Agent
 
@@ -38,7 +42,7 @@ PEAS:
 
 Performance will be measured by its abiity to accurately show thew correct colors.
 
-Environment is inteded to be recreational spaces such as homes or studios.
+Environment is inteded to be used in recreational spaces such as homes or studios.
 
 Agents will be the leds that display the various colors.
 
